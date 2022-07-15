@@ -1,0 +1,13 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "DejaVu Sans Mono 28";
+ width: 500;
+ lines: 10;
+ columns: 1;
+ padding: 30;
+ sidebar-mode: false;
+ show-icons: true;
+ combi-modi: "window,drun,ssh";
+ }
+@theme "fancy"
+//@theme "/usr/share/rofi/themes/Pop-Dark.rasi"
